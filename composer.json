@@ -1,0 +1,13 @@
+{
+    "name": "root/composer-lab",
+    "authors": [
+        {
+            "name": "ianlee",
+            "email": "ian55668899@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21",
+        "monolog/monolog": "^1.17"
+    }
+}
